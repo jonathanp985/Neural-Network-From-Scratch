@@ -1,3 +1,2 @@
 - Neural Network made from scratch in python
-- Code references from playist https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 - Mainly made for learning purposes 
